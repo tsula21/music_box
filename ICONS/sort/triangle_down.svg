@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 31 26" width="20" height="17">
+	<title>triangle_down</title>
+	<defs>
+		<image  width="31" height="26" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAaCAMAAAB4vXe4AAAAAXNSR0IB2cksfwAAASxQTFRF5+fn+/v7/Pz88/Pz09PT8fHx////+Pj44eHhAAAA4+Pj+vr6/f396+vrpqamwMDA8PDw9fX129vb3d3d9vb2/Pz86OjomJiY6enp/v7+8PDwycnJ0NDQ9vb2+/v74+Pj4ODg/Pz8/v7+7OzsvLy8zMzM8PDw9/f32NjY4ODg+vr6/f396enpkpKS5eXl8vLyu7u7zc3N+Pj42tra7e3t/f399PT0kZGRsbGx9PT0+vr62NjY3d3d+/v7/f397e3ti4uL8PDw9vb2x8fH1dXV9/f3/Pz85+fn6+vr/f398/PzqKioy8vL9fX1+vr64uLi2dnZ7e3tkZGR6+vr+Pj4yMjIzs7O5+fn5OTk8PDwy8vLwsLC8vLy+/v71tbW3Nzc6urqj4+P4uLis7OzdhT3OgAAAGR0Uk5TYv//jhCt/98uAEDt/XYDB4zIHCHT90sBYv6fCRLV9DNJ9f+MAwen3xwr6/xlAHjBCBDXNXD6rQEIuOIsRu3+hACbzhUk1PFYb/epBxC85TpEggKv7hYnZ3jBBxDZ/DhRnAKkEiiIewgAAADfSURBVHicfc5pXwFRAMXhK5mcKJElkaVIWiwhS9mXFkQh7ZTv/x2Ysc019/q/O7/nzSFEtbEmNdnUCPy2tATbOi7rd3YJDHtcN5pAgH0zhy1WiG47sLP90CE5nEdMdrkxdXi8DD4+8c3df8rwwBnmjuC5gi8ur5aOkOJiOAKZR69X2BuD3BFP0H6TpD2VpjhzC9pxl5VxLo9VLxRlXiorHJXqgmv3UDoeHmdsf6qzvNGc+XMLLEc7N/UXsP21I3G3x3G8WUTvg+d4n/DHJ9+/voWfX/AdA2H4t87xP6L3GAfiKCXj5RiEAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Layer 1" href="#img1" x="0" y="0"/>
+</svg>
